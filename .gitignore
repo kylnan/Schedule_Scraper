@@ -1,0 +1,18 @@
+# Ignore Playwright login state file with cookies and tokens
+state.json
+
+# Ignore Python cache and environment files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
